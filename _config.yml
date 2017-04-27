@@ -1,0 +1,8 @@
+title: Sunyzero.GitHub.io
+description: Truth will set you free
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
